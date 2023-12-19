@@ -10,8 +10,4 @@ Here is the first website of Qiming Liu. It is underconstruction.
 
 Welcome to connect. Here is my [LinkedIn]({{ site.github.url }}{% post_url 2016-10-10-getting-started %})
 
----
-https://lenpaul.github.io/Millennial/getting-started
----
-
 See you soon :)
