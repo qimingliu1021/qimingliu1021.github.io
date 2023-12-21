@@ -7,12 +7,12 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Hometown',  url: 'hometown'}
+- {name: 'Hometown', url: 'hometown'}
 - {name: 'Technology', url: 'technology'}
-- {name: 'Sports',       url: 'sports'}
-- {name: 'Music',      url: 'music'}
-- {name: 'Movies/Books', url: 'reading'}
-- {name: 'Contact',            url: 'contact'}
+- {name: 'Sports', url: 'sports'}
+- {name: 'Music', url: 'music'}
+- {name: 'Movies&Books', url: 'reading'}
+- {name: 'Contact', url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
