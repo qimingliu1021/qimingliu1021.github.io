@@ -4,3 +4,5 @@ title: Interesting Facts
 category: facts
 permalink: /facts
 ---
+
+Pingpong!
