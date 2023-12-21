@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name          = "qimingliu"
   spec.version       = "2.0.0"
-  spec.authors       = ["Paul Le"]
+  spec.authors       = ["Qiming Liu"]
   spec.email         = ["ql2298@nyu.edu"]
 
   spec.summary       = "A minimalist Jekyll theme for running a blog or publication powered by Jekyll and GitHub Pages"
